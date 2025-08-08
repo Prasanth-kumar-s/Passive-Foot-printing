@@ -49,7 +49,7 @@ sudo apt update && sudo apt install -y dig whois theharvester
 # For macOS (using Homebrew):
 # brew install bind whois theharvester
 
-gir clone
+git clone https://github.com/Prasanth-kumar-s/Passive-Foot-Printing.git
 
 cd Passive-Foot-Printing
 
