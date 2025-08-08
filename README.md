@@ -53,7 +53,7 @@ git clone https://github.com/Prasanth-kumar-s/Passive-Foot-Printing.git
 
 cd Passive-Foot-Printing
 
-python3 passive_footprinting.py
+python3 passive_footprint.py
 
 ```
 
